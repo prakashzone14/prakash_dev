@@ -1,1 +1,1 @@
-print("2nd file from locals")
+print("2nd file from localsz")
