@@ -1,1 +1,1 @@
-print("2nd file from local")
+print("2nd file from locals")
